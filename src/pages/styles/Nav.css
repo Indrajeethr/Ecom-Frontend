@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    padding: 15px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    color:rgb(37, 87, 144);
+}
+
+.nav-items{
+    padding:4px;
+    border:none;
+    background-color: white;
+    border-bottom: 2px solid rgb(37, 87, 144);
+    color:rgb(37, 87, 144);
+    cursor: pointer;
+}

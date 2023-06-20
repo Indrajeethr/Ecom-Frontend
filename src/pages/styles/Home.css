@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    padding: 15px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: white;
+    color:rgb(37, 87, 144);
+}
+
+.logout{
+    padding:4px;
+    border-bottom: 2px solid rgb(37, 87, 144);
+    cursor: pointer;
+}
+
+.login-container{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

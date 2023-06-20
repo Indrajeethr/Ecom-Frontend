@@ -1,0 +1,22 @@
+.order-heading{
+    text-align: center;
+}
+
+.orderContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+
+}
+
+.order{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border:2px solid black;
+}
